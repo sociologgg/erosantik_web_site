@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "erosantik"
+  },
+  "targets": {
+    "erosantik": {
+      "hosting": {
+        "erosantik": [
+          "www.erosantik.com"
+        ]
+      }
+    }
   }
 }
